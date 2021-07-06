@@ -94,3 +94,12 @@ a {
 .footer-section h1 {
     padding-top: 30px;
 }
+
+ul {
+    display: inline-block;
+}
+
+li {
+    display: inline;
+}
+
