@@ -77,11 +77,6 @@ a {
     text-align: center;
 }
 
-.item-tittle h1 {
-    font-weight: 700;
-    font-size: 30px;
-}
-
 .footer-section {
     text-align: center;
     padding: 10px;
@@ -95,11 +90,6 @@ a {
     padding-top: 30px;
 }
 
-ul {
-    display: inline-block;
-}
-
 li {
     display: inline;
 }
-
