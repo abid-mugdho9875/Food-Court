@@ -1,5 +1,5 @@
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Lato', sans-serif;
     height: 100%;
 }
 
@@ -76,7 +76,21 @@ a {
 .item-tittle {
     text-align: center;
 }
-.item-tittle h1{
+
+.item-tittle h1 {
     font-weight: 700;
     font-size: 30px;
+}
+
+.footer-section {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    line-height: 4px;
+    height: 200px;
+}
+
+.footer-section h1 {
+    padding-top: 30px;
 }
